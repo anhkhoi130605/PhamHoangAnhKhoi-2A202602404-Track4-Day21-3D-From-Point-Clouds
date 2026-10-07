@@ -2,13 +2,13 @@
 
 > Thay **mọi** ô có chữ ĐIỀN nằm trong ngoặc vuông bằng nội dung của bạn, xoá luôn cả dấu ngoặc vuông. Lệnh `python tools/check_submission.py` sẽ báo FAIL nếu còn sót bất kỳ chỗ nào.
 
-- **Họ tên:** [ĐIỀN]
-- **MSSV:** [ĐIỀN] (phải trùng với MSSV trong tên repo `<HoVaTen>-<MSSV>-Track4-Day21`)
-- **Lớp:** [ĐIỀN]
-- **Link repo:** [ĐIỀN]
-- **Topic:** [ĐIỀN một chữ cái A/B/C/D/E/F] — [ĐIỀN tên topic]
-- **Dataset:** [ĐIỀN một hoặc nhiều trong: data/synthetic, data/kitti_mini, data/nuscenes_mini_subset, log riêng]
-- **Các frame đã dùng:** [ĐIỀN danh sách frame id, ví dụ 000011, 000049 hoặc scene-0103_010]
+- **Họ tên:** Phạm Hoàng Anh Khôi
+- **MSSV:** 2A202602404 (phải trùng với MSSV trong tên repo `PhamHoangAnhKhoi-2A202602404-Track4-Day21`)
+- **Lớp:** AI20K-T4
+- **Link repo:** https://github.com/anhkhoi130605/PhamHoangAnhKhoi-2A202602404-Track4-Day21-3D-From-Point-Clouds
+- **Topic:** B
+- **Dataset:** data/kitti_mini
+- **Các frame đã dùng:** 000001, 000011, 000021, 000048, 000049
 
 > Hãy viết ngắn: mỗi mục từ 3 đến 8 dòng, ưu tiên số liệu và hình ảnh.
 
